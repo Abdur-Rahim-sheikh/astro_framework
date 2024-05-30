@@ -1,3 +1,6 @@
+# View app in netlify
+Click this link to view the app in netlify: [View App](https://main--flourishing-griffin-e37f94.netlify.app/)
+
 # Astro Starter Kit: Basics
 
 ```sh
